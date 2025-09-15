@@ -1,0 +1,14 @@
+:root {
+  /* Colors */
+  --bg: #000000;
+  --text: #ffffff;
+  --accent: #28a745;   /* your green button */
+  --muted: #333333;
+
+  /* Fonts (swap with what you prefer) */
+  --font-main: 'Inter', system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+  --font-heading: 'Montserrat', system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+
+  /* Effects */
+  --shadow-1: 0 2px 8px rgba(0,0,0,.15);
+}
